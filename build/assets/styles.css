@@ -1,3 +1,16 @@
+body {
+    background: white;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    font-family: 'Domine', serif;
+}
+    header h2 {
+        color: darkgray;
+    }
+
 footer {
     background: black;
     text-align: center;
