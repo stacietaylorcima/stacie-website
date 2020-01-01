@@ -1,0 +1,23 @@
+footer {
+    background: black;
+    text-align: center;
+}
+
+    footer ul {
+        list-style: none;
+    }
+        footer li {
+            display: inline-block;
+        }
+
+    footer .social-media-logo {
+    }
+        footer .social-media-logo img {
+            filter: brightness(0.7);
+            height: 20px;
+            padding: 5px 5px 0 0;
+            width: 20px;
+        }
+            footer .social-media-logo img:hover {
+                filter: brightness(1);
+            }
